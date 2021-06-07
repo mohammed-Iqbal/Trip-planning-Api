@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/705438527d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-shims.min.css"
+      media="all"
+      rel="stylesheet"
+      id="font-awesome-5-kit-css"
+    />
+    <link
+      href="https://kit-free.fontawesome.com/releases/latest/css/free-v4-font-face.min.css"
+      media="all"
+      rel="stylesheet"
+      id="font-awesome-5-kit-css"
+    />
+    <link
+      href="https://kit-free.fontawesome.com/releases/latest/css/free.min.css"
+      media="all"
+      rel="stylesheet"
+      id="font-awesome-5-kit-css"
+    />
+    <title>Find Your Way</title>
+  </head>
+  <body>
+    <div class="origin-container">
+      <form class="origin-form" method='post'>
+        <input id='Starting_location' placeholder="Find a starting location" type="text" />
+        <p id='starting_location_error' class='error'></p>
+      </form>
+
+      <ul class="origins" id='origins'>
+      </ul>
+    </div>
+
+    <div class="destination-container">
+      <form class="destination-form">
+        <input id='destination_input' placeholder="Choose your Destination" type="text" />
+        <p id='destination_error' class='error'></p>
+      </form>
+
+      <ul class="destinations" id='destinations'>
+      </ul>
+    </div>
+
+    <div class="button-container">
+      <button class="plan-trip" id='plan_trip'>Plan My Trip</button>
+    </div>
+
+    <div class="bus-container">
+      <ul class="my-trip" id='my_trip'>
+        
+      </ul>
+    </div>
+  </body>
+</html>
