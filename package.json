@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mohammed-Iqbal/mohammed-Iqbal-Personal-Project-/issues"
   },
-  "homepage": "https://github.com/mohammed-Iqbal/mohammed-Iqbal-Personal-Project-#readme"
+  "homepage": "https://github.com/mohammed-Iqbal/mohammed-Iqbal-Personal-Project-#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
