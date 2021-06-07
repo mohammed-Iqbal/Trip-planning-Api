@@ -7,7 +7,7 @@
 - Displaying the planned trip.
 
 
-#### *By clicking the 'Plan my trip' button after selecting the proper inputs, application will show:
+#### *By clicking the 'Plan my trip' button after selecting the proper inputs, application will show:*
 - Winnipeg bus route
 - stop-location
 - bus number
