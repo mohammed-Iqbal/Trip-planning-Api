@@ -11,4 +11,4 @@
 
 #### *Aplication will allow user to search every possible location or place with in the city of Winnipeg.*
 
-## **Enjoy your bus tour**
+## **Enjoy your bus trip**
