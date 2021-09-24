@@ -1,4 +1,4 @@
-# **mohammed-Iqbal-Personal-Project**
+# **mohammed-Iqbal's-Personal-Project**
 
 
 ### ***There are 3 major part in this trip planning application:***
